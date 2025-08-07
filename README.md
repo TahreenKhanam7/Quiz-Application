@@ -29,4 +29,4 @@ git clone https://github.com/TahrreenKhanam7/Quiz-Application.git
 
 ## 🙋‍♀️ Author
 
-- Tahrreen Khanam
+- Tahreen Khanam
