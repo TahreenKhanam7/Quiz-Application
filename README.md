@@ -14,12 +14,5 @@ A simple Java Swing-based quiz application built using Apache NetBeans.
 - Swing
 - Apache NetBeans
 
-## 🧑‍💻 How to Use
-
- Go to
- https://tahreenkhanam7.github.io/Quiz-Application/
- Try out this QUIZ!!!!!
-  
-
 ## 🙋‍♀️ Author
  Tahreen Khanam
