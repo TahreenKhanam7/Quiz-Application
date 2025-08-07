@@ -17,7 +17,7 @@ A simple Java Swing-based quiz application built using Apache NetBeans.
 ## 🧑‍💻 How to Run
 
 1. Clone this repository:
-git clone https://github.com/TahrreenKhanam7/Quiz-Application.git
+git clone https://github.com/TahreenKhanam7/Quiz-Application.git
 2. Open the folder in NetBeans.
 3. Run the `Quiz.java` file.
 
